@@ -91,7 +91,7 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/Godfrey2712/wather_insight_assistant.git
+git clone https://github.com/Godfrey2712/weather_insight_assistant.git
 cd weather_insight_assistant
 ```
 
